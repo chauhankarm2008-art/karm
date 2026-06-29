@@ -1,2 +1,0 @@
-# karm
-cyber security toolkit
